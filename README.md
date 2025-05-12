@@ -43,7 +43,7 @@ GEMINI_API_KEY=your_actual_api_key_here
 ```bash
 streamlit run app.py
 ```
--Paste a URL in the input box
--Click Summarize
--View structured summaries instantly
+- Paste a URL in the input box
+- Click Summarize
+- View structured summaries instantly
 
