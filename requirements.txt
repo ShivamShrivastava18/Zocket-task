@@ -1,0 +1,8 @@
+lxml_html_clean
+streamlit
+fastapi
+uvicorn
+google-generativeai
+newspaper3k
+beautifulsoup4
+requests
