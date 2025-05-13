@@ -47,3 +47,17 @@ streamlit run app.py
 - Click Summarize
 - View structured summaries instantly
 
+---
+
+## Sample
+
+![1](https://github.com/user-attachments/assets/be2249e5-2ff2-415d-9c62-5546e47eacea)
+
+![2](https://github.com/user-attachments/assets/c04fbd2f-132f-4195-85ae-24d211c8d1fa)
+
+![3](https://github.com/user-attachments/assets/74f10148-e345-4863-8572-dbd192c3fc02)
+
+![4](https://github.com/user-attachments/assets/545437f7-dbcb-4898-8f98-ce6df7a097af)
+
+
+
