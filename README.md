@@ -1,4 +1,4 @@
-# Webpage Summarizer with Gemini 1.5 Pro
+# Webpage Summarizer
 
 This project is a Streamlit-based AI agent that accepts a webpage URL, extracts its content, and generates concise bullet-point summaries using the Gemini 1.5 Pro model.
 
